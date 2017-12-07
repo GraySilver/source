@@ -13,4 +13,4 @@
 
 #### 深度学习基础介绍-机器学习视频：[度盘网址](https://pan.baidu.com/s/1hsJ750S)，密码：zevq
 
-#### JavaSSM后台框架设计教学视频：[度盘网址](https://pan.baidu.com/s/1pKHbzsB)，密码：a4is
+#### JavaSSM后台框架设计教学视频：[度盘网址](https://pan.baidu.com/s/1pKHbzsB)
